@@ -17,7 +17,7 @@ console.log(num);
 console.log(obj);
 /*
 * [実行結果]
-* 10
+* 10 
 * [Number: 10]
 */
 
